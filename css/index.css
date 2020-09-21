@@ -8,7 +8,7 @@
 }
 
 /* Set black background color, white text and some padding */
-footer {
+.rodape {
   background-color: #555;
   color: white;
   padding: 15px;
