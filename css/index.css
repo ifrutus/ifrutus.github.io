@@ -2,6 +2,16 @@
     .navbar {
       margin-bottom: 0;
       border-radius: 0;
+      background-color: #00a73e;
+    }
+
+    .navbar a {
+      color: white !important;
+    }
+
+    .navbar a:hover, a:active{
+      background-color: #009036 !important;
+      color: #f18600 !important;
     }
     
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
